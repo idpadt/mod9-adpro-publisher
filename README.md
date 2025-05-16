@@ -14,3 +14,8 @@ Hal ini berarti bahwa lokasi URL broker yang dipakai publisher (client yang ingi
 ![console](images/Console%20Publisher%20dan%20Subscriber.png)
 
 Setiap kali publisher di-run, akan muncul pesan-pesan yang dikirim pada console subscriber.
+
+### Console RabbitMQ Post-Running
+![console_rabbitmq](images/Console%20RabbitMQ%20post-running.png)
+
+Chart message-rates naik setiap kali publisher di-run karena chart tersebut mengukur jumlah message yang ditransfer.
