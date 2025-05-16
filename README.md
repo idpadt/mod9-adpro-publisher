@@ -9,3 +9,8 @@ Hal ini berarti bahwa lokasi URL broker yang dipakai publisher (client yang ingi
 
 ### Mencoba Docker dan RabbitMQ
 ![rabbitmq_proof](images/Running%20RabbitMQ%20Proof.png)
+
+### Console Publisher dan Subscriber Post-Running
+![console](images/Console%20Publisher%20dan%20Subscriber.png)
+
+Setiap kali publisher di-run, akan muncul pesan-pesan yang dikirim pada console subscriber.
