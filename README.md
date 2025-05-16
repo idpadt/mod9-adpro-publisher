@@ -6,3 +6,6 @@ Didalam fungsi main dalam program publisher terdapat 5 kali panggilan fungsi `pu
 >  The url of: *amqp://guest:guest@localhost:5672* is the same as in the subscriber program, what does it mean?
 
 Hal ini berarti bahwa lokasi URL broker yang dipakai publisher (client yang ingin mengirim pesan) sama dengan yang dipakai subscriber (client yang ingin menerima pesan). Hal ini agar broker yang dipakai sama, sehingga pesan dapat dikirim dan diterima.
+
+### Mencoba Docker dan RabbitMQ
+![rabbitmq_proof](images/Running%20RabbitMQ%20Proof.png)
